@@ -1,0 +1,40 @@
+.div1{
+    background-color:#7389BB;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+   
+}
+.div2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: x-large;
+    color: #5E75A8
+}
+.For{
+    background-image: url('for.png');
+    display: flex;
+}
+.Case{
+    background-image: url('Case.png');
+    display: flex;
+}
+.Ifelse{
+    background-image: url('IfElse.png');
+    display: flex;
+}
+.matriz{
+    background-image: url('Matrizes.png');
+    display: flex;
+}
+.vetores{
+    background-image: url('Vetor.png');
+    display: flex;
+}
+.div1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+img{max-width: 300px;}
+img, p{padding: 30px;}
+
